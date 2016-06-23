@@ -1,0 +1,5 @@
+mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file -Dfile=D:\ideaworkspace\jeesite\lib\analyzer-2012_u6.jar -DgroupId=org.wltea -DartifactId=analyzer -Dversion=2012_u6 -Dpackaging=jar
+rem mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file -Dfile=D:\ideaworkspace\jeesite\lib\ckfinder-2.3.jar -DgroupId=com.ckfinder -DartifactId=ckfinder -Dversion=2.3 -Dpackaging=jar
+rem mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file -Dfile=D:\ideaworkspace\jeesite\lib\ckfinderplugin-fileeditor-2.3.jar -DgroupId=com.ckfinder -DartifactId=ckfinderplugin-fileeditor -Dversion=2.3 -Dpackaging=jar
+rem mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file -Dfile=D:\ideaworkspace\jeesite\lib\ckfinderplugin-imageresize-2.3.jar -DgroupId=com.ckfinder -DartifactId=ckfinderplugin-imageresize -Dversion=2.3 -Dpackaging=jar
+rem mvn org.apache.maven.plugins:maven-install-plugin:2.5.2:install-file -Dfile=D:\ideaworkspace\jeesite\lib\UserAgentUtils-1.13.jar -DgroupId=bitwalker -DartifactId=UserAgentUtils -Dversion=1.13 -Dpackaging=jar
